@@ -1,5 +1,5 @@
 import { View, Text } from "react-native";
-import PropertyListingCard from "./common/PropertyListingCard";
+import PropertyListingCard from "../common/PropertyListingCard";
 import { PropertyListingProps, PropertyListing } from "@/interfaces";
 
 const PropertyListingComponent = ({ listings }: PropertyListing) => {

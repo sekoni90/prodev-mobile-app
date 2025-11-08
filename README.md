@@ -70,3 +70,8 @@ An auto-check will also be in place to verify the presence of core files needed 
 If the deadline passes, you won’t be able to generate your review link—so be sure to submit on time!
 
 We’re here to support your learning journey. Happy coding! ✨
+
+# Here are some additional resources to guide you
+https://docs.expo.dev/router/basics/navigation/
+
+https://docs.expo.dev/router/basics/navigation/

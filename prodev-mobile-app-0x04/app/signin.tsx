@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Text, SafeAreaView, Image, TextInput, TouchableOpacity, ImageBackground } from 'react-native';
 import { Link } from 'expo-router';
 import { styles as mainStyles } from '@/styles/_mainstyle';
-import { styles as joinStyles } from '@/styles/_joinstyle';
+import { styles as joinStyles } from '@/styles/_join';
 import { HEROLOGO, GOOGLELOGO, FACEBOOKLOGO, BACKGROUNDIMAGE } from '@/constants';
 
 export default function SignIn() {

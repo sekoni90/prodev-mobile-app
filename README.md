@@ -75,3 +75,9 @@ We’re here to support your learning journey. Happy coding! ✨
 https://docs.expo.dev/router/basics/navigation/
 
 https://docs.expo.dev/router/basics/navigation/
+
+https://www.figma.com/design/FHpsCUXuQuURQf58XprBtY/Coinpay-Fintech-Finance-Mobile-App-UI-kit-(Community)-(Community)?node-id=685-10519&p=f&t=p6UxlRnCJwRDly7W-0
+
+https://www.figma.com/design/RhP1APTkYyHY3DTClVv5gU/Coffee-Shop-Mobile-App-Design--Community-?node-id=421-1289&t=q4U5XKsz5MhdEWXC-0
+
+https://www.figma.com/design/FbIovZFuJAJ5Xo4gyTTBQj/Online-Groceries-App-UI--Community-?node-id=1-2&p=f&t=scCpDX7KJnKY6Xtc-0
